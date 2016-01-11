@@ -17,6 +17,8 @@
 #ifndef __VCOMPRESS_HPP__
 #define __VCOMPRESS_HPP__
 
+#include <unistd.h>
+
 #include <misc/encoding_internals.hpp>
 
 namespace integer_encoding {
